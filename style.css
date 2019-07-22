@@ -28,6 +28,13 @@
     background-color: #92A560;
     font-family: Helvetica, sans-serif;
   }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
   
   /* The actual timeline (the vertical ruler) */
   .timeline {
